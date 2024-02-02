@@ -1,6 +1,7 @@
 {
-	"author": "Onula",
+	
 	"name": "fcc-learn-npm-package-json",
+	"author": "Onula",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
